@@ -7,7 +7,7 @@
 * **Type:** Enable
 * **Status:** Active
 * **Nice Work Role:** Systems Administration (IO-WRL-005)
-* **Skills & Knowledge:** Systems Administration (IO-WRL-005)	Microsoft Intune administration; access policies and multiple administrative approval
+* **Skills & Knowledge:** Microsoft Intune administration; access policies and multiple administrative approval
 
 ## Intended Outcome
 
